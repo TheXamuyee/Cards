@@ -1,4 +1,4 @@
-let myX = document.getElementById('myX');
+let myCard = document.getElementById('myCard');
 document.getElementById('myButton').onclick = function(){
-    myX.classList.toggle('fade');
+    myCard.classList.toggle('fade');
 }
