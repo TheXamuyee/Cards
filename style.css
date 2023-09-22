@@ -77,14 +77,14 @@ a i {
     right: 10px;
     font-size: 25px;
     color: #3b3527;
+    cursor: pointer;
 }
 
-#myX {
+#myCard {
     opacity: 1;
-    cursor: pointer;
     transition: opacity 0.3s ease-in-out;
 }
 
-#myX.fade {
+#myCard.fade {
     opacity: 0;
 }
